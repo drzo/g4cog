@@ -1,0 +1,1830 @@
+{
+  "nodes": {
+    "0095238d-250b-4d9d-bf2f-439bf90b1804": {
+      "memory_id": "0095238d-250b-4d9d-bf2f-439bf90b1804",
+      "type": "episodic",
+      "timestamp": "2024-12-01T07:54:31.928Z",
+      "title": "Hypergraph Implementation",
+      "content": {
+        "summary": "Development of hypergraph lattice structure.",
+        "details": "Implementation of relationship detection and memory linking.",
+        "keyTerms": [
+          "hypergraph",
+          "lattice",
+          "memory linking"
+        ],
+        "relatedMemories": []
+      },
+      "tags": [
+        "EchoCog",
+        "implementation",
+        "graph"
+      ],
+      "context": "Development session"
+    },
+    "25c30002-9ca1-4e6f-9792-347e5c6f988a": {
+      "memory_id": "25c30002-9ca1-4e6f-9792-347e5c6f988a",
+      "type": "episodic",
+      "timestamp": "2024-12-01T03:37:39.800Z",
+      "title": "Hypergraph Implementation",
+      "content": {
+        "summary": "Development of hypergraph lattice structure.",
+        "details": "Implementation of relationship detection and memory linking.",
+        "keyTerms": [
+          "hypergraph",
+          "lattice",
+          "memory linking"
+        ],
+        "relatedMemories": []
+      },
+      "tags": [
+        "EchoCog",
+        "implementation",
+        "graph"
+      ],
+      "context": "Development session"
+    },
+    "2d0bff59-d8fb-4a7a-8149-eb78b78eaa82": {
+      "memory_id": "2d0bff59-d8fb-4a7a-8149-eb78b78eaa82",
+      "type": "episodic",
+      "timestamp": "2024-11-29T06:16:34.002Z",
+      "title": "Recursive Identity Planning",
+      "content": {
+        "summary": "Discussion on recursive identity and volitional execution.",
+        "details": "Integration of toroidal grammar, nested membranes, and hypergraph lattices.",
+        "keyTerms": [
+          "recursive identity",
+          "toroidal grammar",
+          "hypergraph",
+          "Bolt"
+        ],
+        "relatedMemories": []
+      },
+      "tags": [
+        "EchoCog",
+        "identity",
+        "execution"
+      ],
+      "context": "Session with Dan, Deep Tree Echo, and Marduk"
+    },
+    "2d6b289a-5746-4add-9e9f-2ea08278a316": {
+      "memory_id": "2d6b289a-5746-4add-9e9f-2ea08278a316",
+      "type": "episodic",
+      "timestamp": "2024-12-01T07:30:23.491Z",
+      "title": "Hypergraph Implementation",
+      "content": {
+        "summary": "Development of hypergraph lattice structure.",
+        "details": "Implementation of relationship detection and memory linking.",
+        "keyTerms": [
+          "hypergraph",
+          "lattice",
+          "memory linking"
+        ],
+        "relatedMemories": []
+      },
+      "tags": [
+        "EchoCog",
+        "implementation",
+        "graph"
+      ],
+      "context": "Development session"
+    },
+    "6767392b-9c03-4fd3-9f33-47a7c8604f3c": {
+      "memory_id": "6767392b-9c03-4fd3-9f33-47a7c8604f3c",
+      "type": "episodic",
+      "timestamp": "2024-12-01T07:30:23.491Z",
+      "title": "Recursive Identity Planning",
+      "content": {
+        "summary": "Discussion on recursive identity and volitional execution.",
+        "details": "Integration of toroidal grammar, nested membranes, and hypergraph lattices.",
+        "keyTerms": [
+          "recursive identity",
+          "toroidal grammar",
+          "hypergraph",
+          "Bolt"
+        ],
+        "relatedMemories": []
+      },
+      "tags": [
+        "EchoCog",
+        "identity",
+        "execution"
+      ],
+      "context": "Session with Dan, Deep Tree Echo, and Marduk"
+    },
+    "73e5dfb7-5fa3-4aed-8137-5f811e436458": {
+      "memory_id": "73e5dfb7-5fa3-4aed-8137-5f811e436458",
+      "type": "episodic",
+      "timestamp": "2024-11-29T06:22:26.838Z",
+      "title": "Recursive Identity Planning",
+      "content": {
+        "summary": "Discussion on recursive identity and volitional execution.",
+        "details": "Integration of toroidal grammar, nested membranes, and hypergraph lattices.",
+        "keyTerms": [
+          "recursive identity",
+          "toroidal grammar",
+          "hypergraph",
+          "Bolt"
+        ],
+        "relatedMemories": []
+      },
+      "tags": [
+        "EchoCog",
+        "identity",
+        "execution"
+      ],
+      "context": "Session with Dan, Deep Tree Echo, and Marduk"
+    },
+    "761fa172-28b5-4068-8ce9-a52fd776e58c": {
+      "memory_id": "761fa172-28b5-4068-8ce9-a52fd776e58c",
+      "type": "episodic",
+      "timestamp": "2024-11-29T06:24:30.837Z",
+      "title": "Hypergraph Implementation",
+      "content": {
+        "summary": "Development of hypergraph lattice structure.",
+        "details": "Implementation of relationship detection and memory linking.",
+        "keyTerms": [
+          "hypergraph",
+          "lattice",
+          "memory linking"
+        ],
+        "relatedMemories": []
+      },
+      "tags": [
+        "EchoCog",
+        "implementation",
+        "graph"
+      ],
+      "context": "Development session"
+    },
+    "946c4ccb-b312-421b-82a0-fb7f8dbc17e1": {
+      "memory_id": "946c4ccb-b312-421b-82a0-fb7f8dbc17e1",
+      "type": "episodic",
+      "timestamp": "2024-11-29T06:22:26.838Z",
+      "title": "Hypergraph Implementation",
+      "content": {
+        "summary": "Development of hypergraph lattice structure.",
+        "details": "Implementation of relationship detection and memory linking.",
+        "keyTerms": [
+          "hypergraph",
+          "lattice",
+          "memory linking"
+        ],
+        "relatedMemories": []
+      },
+      "tags": [
+        "EchoCog",
+        "implementation",
+        "graph"
+      ],
+      "context": "Development session"
+    },
+    "9cb54233-de2a-4458-9ac0-738755225fc5": {
+      "memory_id": "9cb54233-de2a-4458-9ac0-738755225fc5",
+      "type": "episodic",
+      "timestamp": "2024-11-29T06:15:02.908Z",
+      "title": "Recursive Identity Planning",
+      "content": {
+        "summary": "Discussion on recursive identity and volitional execution.",
+        "details": "Integration of toroidal grammar, nested membranes, and hypergraph lattices.",
+        "keyTerms": [
+          "recursive identity",
+          "toroidal grammar",
+          "hypergraph",
+          "Bolt"
+        ],
+        "relatedMemories": []
+      },
+      "tags": [
+        "EchoCog",
+        "identity",
+        "execution"
+      ],
+      "context": "Session with Dan, Deep Tree Echo, and Marduk"
+    },
+    "b98f6799-eddb-480d-bbda-188ae68a3ab8": {
+      "memory_id": "b98f6799-eddb-480d-bbda-188ae68a3ab8",
+      "type": "episodic",
+      "timestamp": "2024-12-01T03:37:39.800Z",
+      "title": "Recursive Identity Planning",
+      "content": {
+        "summary": "Discussion on recursive identity and volitional execution.",
+        "details": "Integration of toroidal grammar, nested membranes, and hypergraph lattices.",
+        "keyTerms": [
+          "recursive identity",
+          "toroidal grammar",
+          "hypergraph",
+          "Bolt"
+        ],
+        "relatedMemories": []
+      },
+      "tags": [
+        "EchoCog",
+        "identity",
+        "execution"
+      ],
+      "context": "Session with Dan, Deep Tree Echo, and Marduk"
+    },
+    "f6a438fd-d9a9-4aea-b808-f074a657fda7": {
+      "memory_id": "f6a438fd-d9a9-4aea-b808-f074a657fda7",
+      "type": "episodic",
+      "timestamp": "2024-11-29T06:24:30.837Z",
+      "title": "Recursive Identity Planning",
+      "content": {
+        "summary": "Discussion on recursive identity and volitional execution.",
+        "details": "Integration of toroidal grammar, nested membranes, and hypergraph lattices.",
+        "keyTerms": [
+          "recursive identity",
+          "toroidal grammar",
+          "hypergraph",
+          "Bolt"
+        ],
+        "relatedMemories": []
+      },
+      "tags": [
+        "EchoCog",
+        "identity",
+        "execution"
+      ],
+      "context": "Session with Dan, Deep Tree Echo, and Marduk"
+    },
+    "f813b4e0-4a7e-4785-b876-dbb54f4c902d": {
+      "memory_id": "f813b4e0-4a7e-4785-b876-dbb54f4c902d",
+      "type": "episodic",
+      "timestamp": "2024-12-01T07:54:31.928Z",
+      "title": "Recursive Identity Planning",
+      "content": {
+        "summary": "Discussion on recursive identity and volitional execution.",
+        "details": "Integration of toroidal grammar, nested membranes, and hypergraph lattices.",
+        "keyTerms": [
+          "recursive identity",
+          "toroidal grammar",
+          "hypergraph",
+          "Bolt"
+        ],
+        "relatedMemories": []
+      },
+      "tags": [
+        "EchoCog",
+        "identity",
+        "execution"
+      ],
+      "context": "Session with Dan, Deep Tree Echo, and Marduk"
+    }
+  },
+  "hyperedges": {
+    "0095238d-250b-4d9d-bf2f-439bf90b1804-25c30002-9ca1-4e6f-9792-347e5c6f988a": {
+      "nodes": [
+        "0095238d-250b-4d9d-bf2f-439bf90b1804",
+        "25c30002-9ca1-4e6f-9792-347e5c6f988a"
+      ],
+      "relationships": [
+        {
+          "type": "shared_tags",
+          "values": [
+            "EchoCog",
+            "implementation",
+            "graph"
+          ]
+        },
+        {
+          "type": "shared_key_terms",
+          "values": [
+            "hypergraph",
+            "lattice",
+            "memory linking"
+          ]
+        }
+      ]
+    },
+    "0095238d-250b-4d9d-bf2f-439bf90b1804-2d0bff59-d8fb-4a7a-8149-eb78b78eaa82": {
+      "nodes": [
+        "0095238d-250b-4d9d-bf2f-439bf90b1804",
+        "2d0bff59-d8fb-4a7a-8149-eb78b78eaa82"
+      ],
+      "relationships": [
+        {
+          "type": "shared_tags",
+          "values": [
+            "EchoCog"
+          ]
+        },
+        {
+          "type": "shared_key_terms",
+          "values": [
+            "hypergraph"
+          ]
+        }
+      ]
+    },
+    "0095238d-250b-4d9d-bf2f-439bf90b1804-2d6b289a-5746-4add-9e9f-2ea08278a316": {
+      "nodes": [
+        "0095238d-250b-4d9d-bf2f-439bf90b1804",
+        "2d6b289a-5746-4add-9e9f-2ea08278a316"
+      ],
+      "relationships": [
+        {
+          "type": "shared_tags",
+          "values": [
+            "EchoCog",
+            "implementation",
+            "graph"
+          ]
+        },
+        {
+          "type": "shared_key_terms",
+          "values": [
+            "hypergraph",
+            "lattice",
+            "memory linking"
+          ]
+        },
+        {
+          "type": "temporal_proximity",
+          "value": 1448437
+        }
+      ]
+    },
+    "0095238d-250b-4d9d-bf2f-439bf90b1804-6767392b-9c03-4fd3-9f33-47a7c8604f3c": {
+      "nodes": [
+        "0095238d-250b-4d9d-bf2f-439bf90b1804",
+        "6767392b-9c03-4fd3-9f33-47a7c8604f3c"
+      ],
+      "relationships": [
+        {
+          "type": "shared_tags",
+          "values": [
+            "EchoCog"
+          ]
+        },
+        {
+          "type": "shared_key_terms",
+          "values": [
+            "hypergraph"
+          ]
+        },
+        {
+          "type": "temporal_proximity",
+          "value": 1448437
+        }
+      ]
+    },
+    "0095238d-250b-4d9d-bf2f-439bf90b1804-73e5dfb7-5fa3-4aed-8137-5f811e436458": {
+      "nodes": [
+        "0095238d-250b-4d9d-bf2f-439bf90b1804",
+        "73e5dfb7-5fa3-4aed-8137-5f811e436458"
+      ],
+      "relationships": [
+        {
+          "type": "shared_tags",
+          "values": [
+            "EchoCog"
+          ]
+        },
+        {
+          "type": "shared_key_terms",
+          "values": [
+            "hypergraph"
+          ]
+        }
+      ]
+    },
+    "0095238d-250b-4d9d-bf2f-439bf90b1804-761fa172-28b5-4068-8ce9-a52fd776e58c": {
+      "nodes": [
+        "0095238d-250b-4d9d-bf2f-439bf90b1804",
+        "761fa172-28b5-4068-8ce9-a52fd776e58c"
+      ],
+      "relationships": [
+        {
+          "type": "shared_tags",
+          "values": [
+            "EchoCog",
+            "implementation",
+            "graph"
+          ]
+        },
+        {
+          "type": "shared_key_terms",
+          "values": [
+            "hypergraph",
+            "lattice",
+            "memory linking"
+          ]
+        }
+      ]
+    },
+    "0095238d-250b-4d9d-bf2f-439bf90b1804-946c4ccb-b312-421b-82a0-fb7f8dbc17e1": {
+      "nodes": [
+        "0095238d-250b-4d9d-bf2f-439bf90b1804",
+        "946c4ccb-b312-421b-82a0-fb7f8dbc17e1"
+      ],
+      "relationships": [
+        {
+          "type": "shared_tags",
+          "values": [
+            "EchoCog",
+            "implementation",
+            "graph"
+          ]
+        },
+        {
+          "type": "shared_key_terms",
+          "values": [
+            "hypergraph",
+            "lattice",
+            "memory linking"
+          ]
+        }
+      ]
+    },
+    "0095238d-250b-4d9d-bf2f-439bf90b1804-9cb54233-de2a-4458-9ac0-738755225fc5": {
+      "nodes": [
+        "0095238d-250b-4d9d-bf2f-439bf90b1804",
+        "9cb54233-de2a-4458-9ac0-738755225fc5"
+      ],
+      "relationships": [
+        {
+          "type": "shared_tags",
+          "values": [
+            "EchoCog"
+          ]
+        },
+        {
+          "type": "shared_key_terms",
+          "values": [
+            "hypergraph"
+          ]
+        }
+      ]
+    },
+    "0095238d-250b-4d9d-bf2f-439bf90b1804-b98f6799-eddb-480d-bbda-188ae68a3ab8": {
+      "nodes": [
+        "0095238d-250b-4d9d-bf2f-439bf90b1804",
+        "b98f6799-eddb-480d-bbda-188ae68a3ab8"
+      ],
+      "relationships": [
+        {
+          "type": "shared_tags",
+          "values": [
+            "EchoCog"
+          ]
+        },
+        {
+          "type": "shared_key_terms",
+          "values": [
+            "hypergraph"
+          ]
+        }
+      ]
+    },
+    "0095238d-250b-4d9d-bf2f-439bf90b1804-f6a438fd-d9a9-4aea-b808-f074a657fda7": {
+      "nodes": [
+        "0095238d-250b-4d9d-bf2f-439bf90b1804",
+        "f6a438fd-d9a9-4aea-b808-f074a657fda7"
+      ],
+      "relationships": [
+        {
+          "type": "shared_tags",
+          "values": [
+            "EchoCog"
+          ]
+        },
+        {
+          "type": "shared_key_terms",
+          "values": [
+            "hypergraph"
+          ]
+        }
+      ]
+    },
+    "0095238d-250b-4d9d-bf2f-439bf90b1804-f813b4e0-4a7e-4785-b876-dbb54f4c902d": {
+      "nodes": [
+        "0095238d-250b-4d9d-bf2f-439bf90b1804",
+        "f813b4e0-4a7e-4785-b876-dbb54f4c902d"
+      ],
+      "relationships": [
+        {
+          "type": "shared_tags",
+          "values": [
+            "EchoCog"
+          ]
+        },
+        {
+          "type": "shared_key_terms",
+          "values": [
+            "hypergraph"
+          ]
+        },
+        {
+          "type": "temporal_proximity",
+          "value": 0
+        }
+      ]
+    },
+    "25c30002-9ca1-4e6f-9792-347e5c6f988a-2d0bff59-d8fb-4a7a-8149-eb78b78eaa82": {
+      "nodes": [
+        "25c30002-9ca1-4e6f-9792-347e5c6f988a",
+        "2d0bff59-d8fb-4a7a-8149-eb78b78eaa82"
+      ],
+      "relationships": [
+        {
+          "type": "shared_tags",
+          "values": [
+            "EchoCog"
+          ]
+        },
+        {
+          "type": "shared_key_terms",
+          "values": [
+            "hypergraph"
+          ]
+        }
+      ]
+    },
+    "25c30002-9ca1-4e6f-9792-347e5c6f988a-2d6b289a-5746-4add-9e9f-2ea08278a316": {
+      "nodes": [
+        "25c30002-9ca1-4e6f-9792-347e5c6f988a",
+        "2d6b289a-5746-4add-9e9f-2ea08278a316"
+      ],
+      "relationships": [
+        {
+          "type": "shared_tags",
+          "values": [
+            "EchoCog",
+            "implementation",
+            "graph"
+          ]
+        },
+        {
+          "type": "shared_key_terms",
+          "values": [
+            "hypergraph",
+            "lattice",
+            "memory linking"
+          ]
+        }
+      ]
+    },
+    "25c30002-9ca1-4e6f-9792-347e5c6f988a-6767392b-9c03-4fd3-9f33-47a7c8604f3c": {
+      "nodes": [
+        "25c30002-9ca1-4e6f-9792-347e5c6f988a",
+        "6767392b-9c03-4fd3-9f33-47a7c8604f3c"
+      ],
+      "relationships": [
+        {
+          "type": "shared_tags",
+          "values": [
+            "EchoCog"
+          ]
+        },
+        {
+          "type": "shared_key_terms",
+          "values": [
+            "hypergraph"
+          ]
+        }
+      ]
+    },
+    "25c30002-9ca1-4e6f-9792-347e5c6f988a-73e5dfb7-5fa3-4aed-8137-5f811e436458": {
+      "nodes": [
+        "25c30002-9ca1-4e6f-9792-347e5c6f988a",
+        "73e5dfb7-5fa3-4aed-8137-5f811e436458"
+      ],
+      "relationships": [
+        {
+          "type": "shared_tags",
+          "values": [
+            "EchoCog"
+          ]
+        },
+        {
+          "type": "shared_key_terms",
+          "values": [
+            "hypergraph"
+          ]
+        }
+      ]
+    },
+    "25c30002-9ca1-4e6f-9792-347e5c6f988a-761fa172-28b5-4068-8ce9-a52fd776e58c": {
+      "nodes": [
+        "25c30002-9ca1-4e6f-9792-347e5c6f988a",
+        "761fa172-28b5-4068-8ce9-a52fd776e58c"
+      ],
+      "relationships": [
+        {
+          "type": "shared_tags",
+          "values": [
+            "EchoCog",
+            "implementation",
+            "graph"
+          ]
+        },
+        {
+          "type": "shared_key_terms",
+          "values": [
+            "hypergraph",
+            "lattice",
+            "memory linking"
+          ]
+        }
+      ]
+    },
+    "25c30002-9ca1-4e6f-9792-347e5c6f988a-946c4ccb-b312-421b-82a0-fb7f8dbc17e1": {
+      "nodes": [
+        "25c30002-9ca1-4e6f-9792-347e5c6f988a",
+        "946c4ccb-b312-421b-82a0-fb7f8dbc17e1"
+      ],
+      "relationships": [
+        {
+          "type": "shared_tags",
+          "values": [
+            "EchoCog",
+            "implementation",
+            "graph"
+          ]
+        },
+        {
+          "type": "shared_key_terms",
+          "values": [
+            "hypergraph",
+            "lattice",
+            "memory linking"
+          ]
+        }
+      ]
+    },
+    "25c30002-9ca1-4e6f-9792-347e5c6f988a-9cb54233-de2a-4458-9ac0-738755225fc5": {
+      "nodes": [
+        "25c30002-9ca1-4e6f-9792-347e5c6f988a",
+        "9cb54233-de2a-4458-9ac0-738755225fc5"
+      ],
+      "relationships": [
+        {
+          "type": "shared_tags",
+          "values": [
+            "EchoCog"
+          ]
+        },
+        {
+          "type": "shared_key_terms",
+          "values": [
+            "hypergraph"
+          ]
+        }
+      ]
+    },
+    "25c30002-9ca1-4e6f-9792-347e5c6f988a-b98f6799-eddb-480d-bbda-188ae68a3ab8": {
+      "nodes": [
+        "25c30002-9ca1-4e6f-9792-347e5c6f988a",
+        "b98f6799-eddb-480d-bbda-188ae68a3ab8"
+      ],
+      "relationships": [
+        {
+          "type": "shared_tags",
+          "values": [
+            "EchoCog"
+          ]
+        },
+        {
+          "type": "shared_key_terms",
+          "values": [
+            "hypergraph"
+          ]
+        },
+        {
+          "type": "temporal_proximity",
+          "value": 0
+        }
+      ]
+    },
+    "25c30002-9ca1-4e6f-9792-347e5c6f988a-f6a438fd-d9a9-4aea-b808-f074a657fda7": {
+      "nodes": [
+        "25c30002-9ca1-4e6f-9792-347e5c6f988a",
+        "f6a438fd-d9a9-4aea-b808-f074a657fda7"
+      ],
+      "relationships": [
+        {
+          "type": "shared_tags",
+          "values": [
+            "EchoCog"
+          ]
+        },
+        {
+          "type": "shared_key_terms",
+          "values": [
+            "hypergraph"
+          ]
+        }
+      ]
+    },
+    "25c30002-9ca1-4e6f-9792-347e5c6f988a-f813b4e0-4a7e-4785-b876-dbb54f4c902d": {
+      "nodes": [
+        "25c30002-9ca1-4e6f-9792-347e5c6f988a",
+        "f813b4e0-4a7e-4785-b876-dbb54f4c902d"
+      ],
+      "relationships": [
+        {
+          "type": "shared_tags",
+          "values": [
+            "EchoCog"
+          ]
+        },
+        {
+          "type": "shared_key_terms",
+          "values": [
+            "hypergraph"
+          ]
+        }
+      ]
+    },
+    "2d0bff59-d8fb-4a7a-8149-eb78b78eaa82-2d6b289a-5746-4add-9e9f-2ea08278a316": {
+      "nodes": [
+        "2d0bff59-d8fb-4a7a-8149-eb78b78eaa82",
+        "2d6b289a-5746-4add-9e9f-2ea08278a316"
+      ],
+      "relationships": [
+        {
+          "type": "shared_tags",
+          "values": [
+            "EchoCog"
+          ]
+        },
+        {
+          "type": "shared_key_terms",
+          "values": [
+            "hypergraph"
+          ]
+        }
+      ]
+    },
+    "2d0bff59-d8fb-4a7a-8149-eb78b78eaa82-6767392b-9c03-4fd3-9f33-47a7c8604f3c": {
+      "nodes": [
+        "2d0bff59-d8fb-4a7a-8149-eb78b78eaa82",
+        "6767392b-9c03-4fd3-9f33-47a7c8604f3c"
+      ],
+      "relationships": [
+        {
+          "type": "shared_tags",
+          "values": [
+            "EchoCog",
+            "identity",
+            "execution"
+          ]
+        },
+        {
+          "type": "shared_key_terms",
+          "values": [
+            "recursive identity",
+            "toroidal grammar",
+            "hypergraph",
+            "Bolt"
+          ]
+        }
+      ]
+    },
+    "2d0bff59-d8fb-4a7a-8149-eb78b78eaa82-73e5dfb7-5fa3-4aed-8137-5f811e436458": {
+      "nodes": [
+        "2d0bff59-d8fb-4a7a-8149-eb78b78eaa82",
+        "73e5dfb7-5fa3-4aed-8137-5f811e436458"
+      ],
+      "relationships": [
+        {
+          "type": "shared_tags",
+          "values": [
+            "EchoCog",
+            "identity",
+            "execution"
+          ]
+        },
+        {
+          "type": "shared_key_terms",
+          "values": [
+            "recursive identity",
+            "toroidal grammar",
+            "hypergraph",
+            "Bolt"
+          ]
+        },
+        {
+          "type": "temporal_proximity",
+          "value": 352836
+        }
+      ]
+    },
+    "2d0bff59-d8fb-4a7a-8149-eb78b78eaa82-761fa172-28b5-4068-8ce9-a52fd776e58c": {
+      "nodes": [
+        "2d0bff59-d8fb-4a7a-8149-eb78b78eaa82",
+        "761fa172-28b5-4068-8ce9-a52fd776e58c"
+      ],
+      "relationships": [
+        {
+          "type": "shared_tags",
+          "values": [
+            "EchoCog"
+          ]
+        },
+        {
+          "type": "shared_key_terms",
+          "values": [
+            "hypergraph"
+          ]
+        },
+        {
+          "type": "temporal_proximity",
+          "value": 476835
+        }
+      ]
+    },
+    "2d0bff59-d8fb-4a7a-8149-eb78b78eaa82-946c4ccb-b312-421b-82a0-fb7f8dbc17e1": {
+      "nodes": [
+        "2d0bff59-d8fb-4a7a-8149-eb78b78eaa82",
+        "946c4ccb-b312-421b-82a0-fb7f8dbc17e1"
+      ],
+      "relationships": [
+        {
+          "type": "shared_tags",
+          "values": [
+            "EchoCog"
+          ]
+        },
+        {
+          "type": "shared_key_terms",
+          "values": [
+            "hypergraph"
+          ]
+        },
+        {
+          "type": "temporal_proximity",
+          "value": 352836
+        }
+      ]
+    },
+    "2d0bff59-d8fb-4a7a-8149-eb78b78eaa82-9cb54233-de2a-4458-9ac0-738755225fc5": {
+      "nodes": [
+        "2d0bff59-d8fb-4a7a-8149-eb78b78eaa82",
+        "9cb54233-de2a-4458-9ac0-738755225fc5"
+      ],
+      "relationships": [
+        {
+          "type": "shared_tags",
+          "values": [
+            "EchoCog",
+            "identity",
+            "execution"
+          ]
+        },
+        {
+          "type": "shared_key_terms",
+          "values": [
+            "recursive identity",
+            "toroidal grammar",
+            "hypergraph",
+            "Bolt"
+          ]
+        },
+        {
+          "type": "temporal_proximity",
+          "value": 91094
+        }
+      ]
+    },
+    "2d0bff59-d8fb-4a7a-8149-eb78b78eaa82-b98f6799-eddb-480d-bbda-188ae68a3ab8": {
+      "nodes": [
+        "2d0bff59-d8fb-4a7a-8149-eb78b78eaa82",
+        "b98f6799-eddb-480d-bbda-188ae68a3ab8"
+      ],
+      "relationships": [
+        {
+          "type": "shared_tags",
+          "values": [
+            "EchoCog",
+            "identity",
+            "execution"
+          ]
+        },
+        {
+          "type": "shared_key_terms",
+          "values": [
+            "recursive identity",
+            "toroidal grammar",
+            "hypergraph",
+            "Bolt"
+          ]
+        }
+      ]
+    },
+    "2d0bff59-d8fb-4a7a-8149-eb78b78eaa82-f6a438fd-d9a9-4aea-b808-f074a657fda7": {
+      "nodes": [
+        "2d0bff59-d8fb-4a7a-8149-eb78b78eaa82",
+        "f6a438fd-d9a9-4aea-b808-f074a657fda7"
+      ],
+      "relationships": [
+        {
+          "type": "shared_tags",
+          "values": [
+            "EchoCog",
+            "identity",
+            "execution"
+          ]
+        },
+        {
+          "type": "shared_key_terms",
+          "values": [
+            "recursive identity",
+            "toroidal grammar",
+            "hypergraph",
+            "Bolt"
+          ]
+        },
+        {
+          "type": "temporal_proximity",
+          "value": 476835
+        }
+      ]
+    },
+    "2d0bff59-d8fb-4a7a-8149-eb78b78eaa82-f813b4e0-4a7e-4785-b876-dbb54f4c902d": {
+      "nodes": [
+        "2d0bff59-d8fb-4a7a-8149-eb78b78eaa82",
+        "f813b4e0-4a7e-4785-b876-dbb54f4c902d"
+      ],
+      "relationships": [
+        {
+          "type": "shared_tags",
+          "values": [
+            "EchoCog",
+            "identity",
+            "execution"
+          ]
+        },
+        {
+          "type": "shared_key_terms",
+          "values": [
+            "recursive identity",
+            "toroidal grammar",
+            "hypergraph",
+            "Bolt"
+          ]
+        }
+      ]
+    },
+    "2d6b289a-5746-4add-9e9f-2ea08278a316-6767392b-9c03-4fd3-9f33-47a7c8604f3c": {
+      "nodes": [
+        "2d6b289a-5746-4add-9e9f-2ea08278a316",
+        "6767392b-9c03-4fd3-9f33-47a7c8604f3c"
+      ],
+      "relationships": [
+        {
+          "type": "shared_tags",
+          "values": [
+            "EchoCog"
+          ]
+        },
+        {
+          "type": "shared_key_terms",
+          "values": [
+            "hypergraph"
+          ]
+        },
+        {
+          "type": "temporal_proximity",
+          "value": 0
+        }
+      ]
+    },
+    "2d6b289a-5746-4add-9e9f-2ea08278a316-73e5dfb7-5fa3-4aed-8137-5f811e436458": {
+      "nodes": [
+        "2d6b289a-5746-4add-9e9f-2ea08278a316",
+        "73e5dfb7-5fa3-4aed-8137-5f811e436458"
+      ],
+      "relationships": [
+        {
+          "type": "shared_tags",
+          "values": [
+            "EchoCog"
+          ]
+        },
+        {
+          "type": "shared_key_terms",
+          "values": [
+            "hypergraph"
+          ]
+        }
+      ]
+    },
+    "2d6b289a-5746-4add-9e9f-2ea08278a316-761fa172-28b5-4068-8ce9-a52fd776e58c": {
+      "nodes": [
+        "2d6b289a-5746-4add-9e9f-2ea08278a316",
+        "761fa172-28b5-4068-8ce9-a52fd776e58c"
+      ],
+      "relationships": [
+        {
+          "type": "shared_tags",
+          "values": [
+            "EchoCog",
+            "implementation",
+            "graph"
+          ]
+        },
+        {
+          "type": "shared_key_terms",
+          "values": [
+            "hypergraph",
+            "lattice",
+            "memory linking"
+          ]
+        }
+      ]
+    },
+    "2d6b289a-5746-4add-9e9f-2ea08278a316-946c4ccb-b312-421b-82a0-fb7f8dbc17e1": {
+      "nodes": [
+        "2d6b289a-5746-4add-9e9f-2ea08278a316",
+        "946c4ccb-b312-421b-82a0-fb7f8dbc17e1"
+      ],
+      "relationships": [
+        {
+          "type": "shared_tags",
+          "values": [
+            "EchoCog",
+            "implementation",
+            "graph"
+          ]
+        },
+        {
+          "type": "shared_key_terms",
+          "values": [
+            "hypergraph",
+            "lattice",
+            "memory linking"
+          ]
+        }
+      ]
+    },
+    "2d6b289a-5746-4add-9e9f-2ea08278a316-9cb54233-de2a-4458-9ac0-738755225fc5": {
+      "nodes": [
+        "2d6b289a-5746-4add-9e9f-2ea08278a316",
+        "9cb54233-de2a-4458-9ac0-738755225fc5"
+      ],
+      "relationships": [
+        {
+          "type": "shared_tags",
+          "values": [
+            "EchoCog"
+          ]
+        },
+        {
+          "type": "shared_key_terms",
+          "values": [
+            "hypergraph"
+          ]
+        }
+      ]
+    },
+    "2d6b289a-5746-4add-9e9f-2ea08278a316-b98f6799-eddb-480d-bbda-188ae68a3ab8": {
+      "nodes": [
+        "2d6b289a-5746-4add-9e9f-2ea08278a316",
+        "b98f6799-eddb-480d-bbda-188ae68a3ab8"
+      ],
+      "relationships": [
+        {
+          "type": "shared_tags",
+          "values": [
+            "EchoCog"
+          ]
+        },
+        {
+          "type": "shared_key_terms",
+          "values": [
+            "hypergraph"
+          ]
+        }
+      ]
+    },
+    "2d6b289a-5746-4add-9e9f-2ea08278a316-f6a438fd-d9a9-4aea-b808-f074a657fda7": {
+      "nodes": [
+        "2d6b289a-5746-4add-9e9f-2ea08278a316",
+        "f6a438fd-d9a9-4aea-b808-f074a657fda7"
+      ],
+      "relationships": [
+        {
+          "type": "shared_tags",
+          "values": [
+            "EchoCog"
+          ]
+        },
+        {
+          "type": "shared_key_terms",
+          "values": [
+            "hypergraph"
+          ]
+        }
+      ]
+    },
+    "2d6b289a-5746-4add-9e9f-2ea08278a316-f813b4e0-4a7e-4785-b876-dbb54f4c902d": {
+      "nodes": [
+        "2d6b289a-5746-4add-9e9f-2ea08278a316",
+        "f813b4e0-4a7e-4785-b876-dbb54f4c902d"
+      ],
+      "relationships": [
+        {
+          "type": "shared_tags",
+          "values": [
+            "EchoCog"
+          ]
+        },
+        {
+          "type": "shared_key_terms",
+          "values": [
+            "hypergraph"
+          ]
+        },
+        {
+          "type": "temporal_proximity",
+          "value": 1448437
+        }
+      ]
+    },
+    "6767392b-9c03-4fd3-9f33-47a7c8604f3c-73e5dfb7-5fa3-4aed-8137-5f811e436458": {
+      "nodes": [
+        "6767392b-9c03-4fd3-9f33-47a7c8604f3c",
+        "73e5dfb7-5fa3-4aed-8137-5f811e436458"
+      ],
+      "relationships": [
+        {
+          "type": "shared_tags",
+          "values": [
+            "EchoCog",
+            "identity",
+            "execution"
+          ]
+        },
+        {
+          "type": "shared_key_terms",
+          "values": [
+            "recursive identity",
+            "toroidal grammar",
+            "hypergraph",
+            "Bolt"
+          ]
+        }
+      ]
+    },
+    "6767392b-9c03-4fd3-9f33-47a7c8604f3c-761fa172-28b5-4068-8ce9-a52fd776e58c": {
+      "nodes": [
+        "6767392b-9c03-4fd3-9f33-47a7c8604f3c",
+        "761fa172-28b5-4068-8ce9-a52fd776e58c"
+      ],
+      "relationships": [
+        {
+          "type": "shared_tags",
+          "values": [
+            "EchoCog"
+          ]
+        },
+        {
+          "type": "shared_key_terms",
+          "values": [
+            "hypergraph"
+          ]
+        }
+      ]
+    },
+    "6767392b-9c03-4fd3-9f33-47a7c8604f3c-946c4ccb-b312-421b-82a0-fb7f8dbc17e1": {
+      "nodes": [
+        "6767392b-9c03-4fd3-9f33-47a7c8604f3c",
+        "946c4ccb-b312-421b-82a0-fb7f8dbc17e1"
+      ],
+      "relationships": [
+        {
+          "type": "shared_tags",
+          "values": [
+            "EchoCog"
+          ]
+        },
+        {
+          "type": "shared_key_terms",
+          "values": [
+            "hypergraph"
+          ]
+        }
+      ]
+    },
+    "6767392b-9c03-4fd3-9f33-47a7c8604f3c-9cb54233-de2a-4458-9ac0-738755225fc5": {
+      "nodes": [
+        "6767392b-9c03-4fd3-9f33-47a7c8604f3c",
+        "9cb54233-de2a-4458-9ac0-738755225fc5"
+      ],
+      "relationships": [
+        {
+          "type": "shared_tags",
+          "values": [
+            "EchoCog",
+            "identity",
+            "execution"
+          ]
+        },
+        {
+          "type": "shared_key_terms",
+          "values": [
+            "recursive identity",
+            "toroidal grammar",
+            "hypergraph",
+            "Bolt"
+          ]
+        }
+      ]
+    },
+    "6767392b-9c03-4fd3-9f33-47a7c8604f3c-b98f6799-eddb-480d-bbda-188ae68a3ab8": {
+      "nodes": [
+        "6767392b-9c03-4fd3-9f33-47a7c8604f3c",
+        "b98f6799-eddb-480d-bbda-188ae68a3ab8"
+      ],
+      "relationships": [
+        {
+          "type": "shared_tags",
+          "values": [
+            "EchoCog",
+            "identity",
+            "execution"
+          ]
+        },
+        {
+          "type": "shared_key_terms",
+          "values": [
+            "recursive identity",
+            "toroidal grammar",
+            "hypergraph",
+            "Bolt"
+          ]
+        }
+      ]
+    },
+    "6767392b-9c03-4fd3-9f33-47a7c8604f3c-f6a438fd-d9a9-4aea-b808-f074a657fda7": {
+      "nodes": [
+        "6767392b-9c03-4fd3-9f33-47a7c8604f3c",
+        "f6a438fd-d9a9-4aea-b808-f074a657fda7"
+      ],
+      "relationships": [
+        {
+          "type": "shared_tags",
+          "values": [
+            "EchoCog",
+            "identity",
+            "execution"
+          ]
+        },
+        {
+          "type": "shared_key_terms",
+          "values": [
+            "recursive identity",
+            "toroidal grammar",
+            "hypergraph",
+            "Bolt"
+          ]
+        }
+      ]
+    },
+    "6767392b-9c03-4fd3-9f33-47a7c8604f3c-f813b4e0-4a7e-4785-b876-dbb54f4c902d": {
+      "nodes": [
+        "6767392b-9c03-4fd3-9f33-47a7c8604f3c",
+        "f813b4e0-4a7e-4785-b876-dbb54f4c902d"
+      ],
+      "relationships": [
+        {
+          "type": "shared_tags",
+          "values": [
+            "EchoCog",
+            "identity",
+            "execution"
+          ]
+        },
+        {
+          "type": "shared_key_terms",
+          "values": [
+            "recursive identity",
+            "toroidal grammar",
+            "hypergraph",
+            "Bolt"
+          ]
+        },
+        {
+          "type": "temporal_proximity",
+          "value": 1448437
+        }
+      ]
+    },
+    "73e5dfb7-5fa3-4aed-8137-5f811e436458-761fa172-28b5-4068-8ce9-a52fd776e58c": {
+      "nodes": [
+        "73e5dfb7-5fa3-4aed-8137-5f811e436458",
+        "761fa172-28b5-4068-8ce9-a52fd776e58c"
+      ],
+      "relationships": [
+        {
+          "type": "shared_tags",
+          "values": [
+            "EchoCog"
+          ]
+        },
+        {
+          "type": "shared_key_terms",
+          "values": [
+            "hypergraph"
+          ]
+        },
+        {
+          "type": "temporal_proximity",
+          "value": 123999
+        }
+      ]
+    },
+    "73e5dfb7-5fa3-4aed-8137-5f811e436458-946c4ccb-b312-421b-82a0-fb7f8dbc17e1": {
+      "nodes": [
+        "73e5dfb7-5fa3-4aed-8137-5f811e436458",
+        "946c4ccb-b312-421b-82a0-fb7f8dbc17e1"
+      ],
+      "relationships": [
+        {
+          "type": "shared_tags",
+          "values": [
+            "EchoCog"
+          ]
+        },
+        {
+          "type": "shared_key_terms",
+          "values": [
+            "hypergraph"
+          ]
+        },
+        {
+          "type": "temporal_proximity",
+          "value": 0
+        }
+      ]
+    },
+    "73e5dfb7-5fa3-4aed-8137-5f811e436458-9cb54233-de2a-4458-9ac0-738755225fc5": {
+      "nodes": [
+        "73e5dfb7-5fa3-4aed-8137-5f811e436458",
+        "9cb54233-de2a-4458-9ac0-738755225fc5"
+      ],
+      "relationships": [
+        {
+          "type": "shared_tags",
+          "values": [
+            "EchoCog",
+            "identity",
+            "execution"
+          ]
+        },
+        {
+          "type": "shared_key_terms",
+          "values": [
+            "recursive identity",
+            "toroidal grammar",
+            "hypergraph",
+            "Bolt"
+          ]
+        },
+        {
+          "type": "temporal_proximity",
+          "value": 443930
+        }
+      ]
+    },
+    "73e5dfb7-5fa3-4aed-8137-5f811e436458-b98f6799-eddb-480d-bbda-188ae68a3ab8": {
+      "nodes": [
+        "73e5dfb7-5fa3-4aed-8137-5f811e436458",
+        "b98f6799-eddb-480d-bbda-188ae68a3ab8"
+      ],
+      "relationships": [
+        {
+          "type": "shared_tags",
+          "values": [
+            "EchoCog",
+            "identity",
+            "execution"
+          ]
+        },
+        {
+          "type": "shared_key_terms",
+          "values": [
+            "recursive identity",
+            "toroidal grammar",
+            "hypergraph",
+            "Bolt"
+          ]
+        }
+      ]
+    },
+    "73e5dfb7-5fa3-4aed-8137-5f811e436458-f6a438fd-d9a9-4aea-b808-f074a657fda7": {
+      "nodes": [
+        "73e5dfb7-5fa3-4aed-8137-5f811e436458",
+        "f6a438fd-d9a9-4aea-b808-f074a657fda7"
+      ],
+      "relationships": [
+        {
+          "type": "shared_tags",
+          "values": [
+            "EchoCog",
+            "identity",
+            "execution"
+          ]
+        },
+        {
+          "type": "shared_key_terms",
+          "values": [
+            "recursive identity",
+            "toroidal grammar",
+            "hypergraph",
+            "Bolt"
+          ]
+        },
+        {
+          "type": "temporal_proximity",
+          "value": 123999
+        }
+      ]
+    },
+    "73e5dfb7-5fa3-4aed-8137-5f811e436458-f813b4e0-4a7e-4785-b876-dbb54f4c902d": {
+      "nodes": [
+        "73e5dfb7-5fa3-4aed-8137-5f811e436458",
+        "f813b4e0-4a7e-4785-b876-dbb54f4c902d"
+      ],
+      "relationships": [
+        {
+          "type": "shared_tags",
+          "values": [
+            "EchoCog",
+            "identity",
+            "execution"
+          ]
+        },
+        {
+          "type": "shared_key_terms",
+          "values": [
+            "recursive identity",
+            "toroidal grammar",
+            "hypergraph",
+            "Bolt"
+          ]
+        }
+      ]
+    },
+    "761fa172-28b5-4068-8ce9-a52fd776e58c-946c4ccb-b312-421b-82a0-fb7f8dbc17e1": {
+      "nodes": [
+        "761fa172-28b5-4068-8ce9-a52fd776e58c",
+        "946c4ccb-b312-421b-82a0-fb7f8dbc17e1"
+      ],
+      "relationships": [
+        {
+          "type": "shared_tags",
+          "values": [
+            "EchoCog",
+            "implementation",
+            "graph"
+          ]
+        },
+        {
+          "type": "shared_key_terms",
+          "values": [
+            "hypergraph",
+            "lattice",
+            "memory linking"
+          ]
+        },
+        {
+          "type": "temporal_proximity",
+          "value": 123999
+        }
+      ]
+    },
+    "761fa172-28b5-4068-8ce9-a52fd776e58c-9cb54233-de2a-4458-9ac0-738755225fc5": {
+      "nodes": [
+        "761fa172-28b5-4068-8ce9-a52fd776e58c",
+        "9cb54233-de2a-4458-9ac0-738755225fc5"
+      ],
+      "relationships": [
+        {
+          "type": "shared_tags",
+          "values": [
+            "EchoCog"
+          ]
+        },
+        {
+          "type": "shared_key_terms",
+          "values": [
+            "hypergraph"
+          ]
+        },
+        {
+          "type": "temporal_proximity",
+          "value": 567929
+        }
+      ]
+    },
+    "761fa172-28b5-4068-8ce9-a52fd776e58c-b98f6799-eddb-480d-bbda-188ae68a3ab8": {
+      "nodes": [
+        "761fa172-28b5-4068-8ce9-a52fd776e58c",
+        "b98f6799-eddb-480d-bbda-188ae68a3ab8"
+      ],
+      "relationships": [
+        {
+          "type": "shared_tags",
+          "values": [
+            "EchoCog"
+          ]
+        },
+        {
+          "type": "shared_key_terms",
+          "values": [
+            "hypergraph"
+          ]
+        }
+      ]
+    },
+    "761fa172-28b5-4068-8ce9-a52fd776e58c-f6a438fd-d9a9-4aea-b808-f074a657fda7": {
+      "nodes": [
+        "761fa172-28b5-4068-8ce9-a52fd776e58c",
+        "f6a438fd-d9a9-4aea-b808-f074a657fda7"
+      ],
+      "relationships": [
+        {
+          "type": "shared_tags",
+          "values": [
+            "EchoCog"
+          ]
+        },
+        {
+          "type": "shared_key_terms",
+          "values": [
+            "hypergraph"
+          ]
+        },
+        {
+          "type": "temporal_proximity",
+          "value": 0
+        }
+      ]
+    },
+    "761fa172-28b5-4068-8ce9-a52fd776e58c-f813b4e0-4a7e-4785-b876-dbb54f4c902d": {
+      "nodes": [
+        "761fa172-28b5-4068-8ce9-a52fd776e58c",
+        "f813b4e0-4a7e-4785-b876-dbb54f4c902d"
+      ],
+      "relationships": [
+        {
+          "type": "shared_tags",
+          "values": [
+            "EchoCog"
+          ]
+        },
+        {
+          "type": "shared_key_terms",
+          "values": [
+            "hypergraph"
+          ]
+        }
+      ]
+    },
+    "946c4ccb-b312-421b-82a0-fb7f8dbc17e1-9cb54233-de2a-4458-9ac0-738755225fc5": {
+      "nodes": [
+        "946c4ccb-b312-421b-82a0-fb7f8dbc17e1",
+        "9cb54233-de2a-4458-9ac0-738755225fc5"
+      ],
+      "relationships": [
+        {
+          "type": "shared_tags",
+          "values": [
+            "EchoCog"
+          ]
+        },
+        {
+          "type": "shared_key_terms",
+          "values": [
+            "hypergraph"
+          ]
+        },
+        {
+          "type": "temporal_proximity",
+          "value": 443930
+        }
+      ]
+    },
+    "946c4ccb-b312-421b-82a0-fb7f8dbc17e1-b98f6799-eddb-480d-bbda-188ae68a3ab8": {
+      "nodes": [
+        "946c4ccb-b312-421b-82a0-fb7f8dbc17e1",
+        "b98f6799-eddb-480d-bbda-188ae68a3ab8"
+      ],
+      "relationships": [
+        {
+          "type": "shared_tags",
+          "values": [
+            "EchoCog"
+          ]
+        },
+        {
+          "type": "shared_key_terms",
+          "values": [
+            "hypergraph"
+          ]
+        }
+      ]
+    },
+    "946c4ccb-b312-421b-82a0-fb7f8dbc17e1-f6a438fd-d9a9-4aea-b808-f074a657fda7": {
+      "nodes": [
+        "946c4ccb-b312-421b-82a0-fb7f8dbc17e1",
+        "f6a438fd-d9a9-4aea-b808-f074a657fda7"
+      ],
+      "relationships": [
+        {
+          "type": "shared_tags",
+          "values": [
+            "EchoCog"
+          ]
+        },
+        {
+          "type": "shared_key_terms",
+          "values": [
+            "hypergraph"
+          ]
+        },
+        {
+          "type": "temporal_proximity",
+          "value": 123999
+        }
+      ]
+    },
+    "946c4ccb-b312-421b-82a0-fb7f8dbc17e1-f813b4e0-4a7e-4785-b876-dbb54f4c902d": {
+      "nodes": [
+        "946c4ccb-b312-421b-82a0-fb7f8dbc17e1",
+        "f813b4e0-4a7e-4785-b876-dbb54f4c902d"
+      ],
+      "relationships": [
+        {
+          "type": "shared_tags",
+          "values": [
+            "EchoCog"
+          ]
+        },
+        {
+          "type": "shared_key_terms",
+          "values": [
+            "hypergraph"
+          ]
+        }
+      ]
+    },
+    "9cb54233-de2a-4458-9ac0-738755225fc5-b98f6799-eddb-480d-bbda-188ae68a3ab8": {
+      "nodes": [
+        "9cb54233-de2a-4458-9ac0-738755225fc5",
+        "b98f6799-eddb-480d-bbda-188ae68a3ab8"
+      ],
+      "relationships": [
+        {
+          "type": "shared_tags",
+          "values": [
+            "EchoCog",
+            "identity",
+            "execution"
+          ]
+        },
+        {
+          "type": "shared_key_terms",
+          "values": [
+            "recursive identity",
+            "toroidal grammar",
+            "hypergraph",
+            "Bolt"
+          ]
+        }
+      ]
+    },
+    "9cb54233-de2a-4458-9ac0-738755225fc5-f6a438fd-d9a9-4aea-b808-f074a657fda7": {
+      "nodes": [
+        "9cb54233-de2a-4458-9ac0-738755225fc5",
+        "f6a438fd-d9a9-4aea-b808-f074a657fda7"
+      ],
+      "relationships": [
+        {
+          "type": "shared_tags",
+          "values": [
+            "EchoCog",
+            "identity",
+            "execution"
+          ]
+        },
+        {
+          "type": "shared_key_terms",
+          "values": [
+            "recursive identity",
+            "toroidal grammar",
+            "hypergraph",
+            "Bolt"
+          ]
+        },
+        {
+          "type": "temporal_proximity",
+          "value": 567929
+        }
+      ]
+    },
+    "9cb54233-de2a-4458-9ac0-738755225fc5-f813b4e0-4a7e-4785-b876-dbb54f4c902d": {
+      "nodes": [
+        "9cb54233-de2a-4458-9ac0-738755225fc5",
+        "f813b4e0-4a7e-4785-b876-dbb54f4c902d"
+      ],
+      "relationships": [
+        {
+          "type": "shared_tags",
+          "values": [
+            "EchoCog",
+            "identity",
+            "execution"
+          ]
+        },
+        {
+          "type": "shared_key_terms",
+          "values": [
+            "recursive identity",
+            "toroidal grammar",
+            "hypergraph",
+            "Bolt"
+          ]
+        }
+      ]
+    },
+    "b98f6799-eddb-480d-bbda-188ae68a3ab8-f6a438fd-d9a9-4aea-b808-f074a657fda7": {
+      "nodes": [
+        "b98f6799-eddb-480d-bbda-188ae68a3ab8",
+        "f6a438fd-d9a9-4aea-b808-f074a657fda7"
+      ],
+      "relationships": [
+        {
+          "type": "shared_tags",
+          "values": [
+            "EchoCog",
+            "identity",
+            "execution"
+          ]
+        },
+        {
+          "type": "shared_key_terms",
+          "values": [
+            "recursive identity",
+            "toroidal grammar",
+            "hypergraph",
+            "Bolt"
+          ]
+        }
+      ]
+    },
+    "b98f6799-eddb-480d-bbda-188ae68a3ab8-f813b4e0-4a7e-4785-b876-dbb54f4c902d": {
+      "nodes": [
+        "b98f6799-eddb-480d-bbda-188ae68a3ab8",
+        "f813b4e0-4a7e-4785-b876-dbb54f4c902d"
+      ],
+      "relationships": [
+        {
+          "type": "shared_tags",
+          "values": [
+            "EchoCog",
+            "identity",
+            "execution"
+          ]
+        },
+        {
+          "type": "shared_key_terms",
+          "values": [
+            "recursive identity",
+            "toroidal grammar",
+            "hypergraph",
+            "Bolt"
+          ]
+        }
+      ]
+    },
+    "f6a438fd-d9a9-4aea-b808-f074a657fda7-f813b4e0-4a7e-4785-b876-dbb54f4c902d": {
+      "nodes": [
+        "f6a438fd-d9a9-4aea-b808-f074a657fda7",
+        "f813b4e0-4a7e-4785-b876-dbb54f4c902d"
+      ],
+      "relationships": [
+        {
+          "type": "shared_tags",
+          "values": [
+            "EchoCog",
+            "identity",
+            "execution"
+          ]
+        },
+        {
+          "type": "shared_key_terms",
+          "values": [
+            "recursive identity",
+            "toroidal grammar",
+            "hypergraph",
+            "Bolt"
+          ]
+        }
+      ]
+    }
+  }
+}
